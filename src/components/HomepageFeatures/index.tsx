@@ -36,7 +36,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Cloud Privé OpenStack',
-    Svg: require('@site/static/img/openstack.svg').default,
+    Svg: require('@site/static/img/OpenStack.svg').default,
     description: (
       <>
         Déployez un <strong>cloud privé</strong> avec OpenStack (DevStack),
