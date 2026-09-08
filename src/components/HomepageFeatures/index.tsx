@@ -12,7 +12,7 @@ type FeatureItem = {
 const FeatureList: FeatureItem[] = [
   {
     title: 'Virtualisation & Proxmox',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    Svg: require('@site/static/img/proxmox.svg').default,
     description: (
       <>
         Maîtrisez les concepts de la <strong>virtualisation</strong>, les
@@ -24,7 +24,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Haute Disponibilité & Sauvegarde',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    Svg: require('@site/static/img/HDS.svg').default,
     description: (
       <>
         Mettez en place la <strong>haute disponibilité</strong> avec le HA
@@ -36,7 +36,7 @@ const FeatureList: FeatureItem[] = [
   },
   {
     title: 'Cloud Privé OpenStack',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    Svg: require('@site/static/img/openstack.svg').default,
     description: (
       <>
         Déployez un <strong>cloud privé</strong> avec OpenStack (DevStack),
