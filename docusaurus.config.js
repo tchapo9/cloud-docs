@@ -7,11 +7,11 @@ const config = {
   tagline: 'Virtualisation, Proxmox HA & Cloud privé OpenStack',
   favicon: 'img/favicon.ico',
 
-  url: 'https://votre-site.example.com',
-  baseUrl: '/',
+  url: 'https://tchapo9.github.io',
+  baseUrl: '/cloud-docs/',
 
-  organizationName: 'EC2LT',
-  projectName: 'rapport-cloud-computing',
+  organizationName: 'tchapo9',
+  projectName: 'cloud-docs',
 
   onBrokenLinks: 'warn',
   onBrokenMarkdownLinks: 'warn',
